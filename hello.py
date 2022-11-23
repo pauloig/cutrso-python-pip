@@ -1,0 +1,1 @@
+print('prueba de Python desde la computadora')
